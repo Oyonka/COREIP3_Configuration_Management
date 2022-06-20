@@ -10,13 +10,18 @@ Version v1.0
 Nyaboke  Marasi
 
 # Setup Instructions </br>
-Step 1 : Clone this repository using https://github.com/Oyonka/IP3_Configuration_Management.git, or download a ZIP file of the code.
+## Step 1
+Clone this repository using https://github.com/Oyonka/IP3_Configuration_Management.git, or download a ZIP file of the code.
 
-Step 2 : The repository, if downloaded as a .zip file will need to be extracted on your preferred location and opened
+## Step 2 
+The repository, if downloaded as a .zip file will need to be extracted on your preferred location and opened
 
 # Project Objectives
-Stage 1: Ansible Instrumentation
-Stage 2: Ansible + Terraform instrumentation
+## Stage 1
+
+Ansible Instrumentation
+## Stage 2
+Ansible + Terraform instrumentation
 
 # Project Expectations
 
