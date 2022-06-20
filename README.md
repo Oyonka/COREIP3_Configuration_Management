@@ -1,7 +1,7 @@
 # IP3_Configuration_Management</br>
 
 # Description </br>
-This is an Ansible Vagrant Configuration Management Project. The expectations are to set up an automated Ansible configuration playbook that automates the following configurations on a Vagrant provisioned server.     
+This is an Ansible Vagrant Configuration Management Project. The expectations are to set up an automated Ansible configuration playbook that automates given configurations on a Vagrant provisioned server.     
 
 # Version </br>
 Version v1.0
