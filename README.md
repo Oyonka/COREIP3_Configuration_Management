@@ -24,9 +24,11 @@ Ansible Instrumentation
 Ansible + Terraform instrumentation
 
 # Project Expectations
--Create Terraform scripts to provision the same application depicted in the given repository. 
--The Ansible YAML playbook should trigger both the resources provision using Terraform as well as the server configuration using Ansible roles playbooks.
--Ensure meticulous use of good practices such as the use of variables,
+Create Terraform scripts to provision the same application depicted in the given repository. 
+
+The Ansible YAML playbook should trigger both the resources provision using Terraform as well as the server configuration using Ansible roles playbooks.
+
+Ensure meticulous use of good practices such as the use of variables,
 
 # Ansible Instrumentation Requirements
 - Set up the environment by provisioning a Vagrant virtual machine with the latest Ubuntu server (Jeff Geerlings ubuntu 20.04). No authentication keys or certificates are needed for this project.
