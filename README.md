@@ -1,4 +1,4 @@
-IP3_Configuration_Management</br>
+### IP3_Configuration_Management</br>
 
 # Description </br>
 This is an Ansible Vagrant Configuration Management Project
@@ -14,8 +14,18 @@ Step 1 : Clone this repository using https://github.com/Oyonka/IP3_Configuration
 
 Step 2 : The repository, if downloaded as a .zip file will need to be extracted on your preferred location and opened
 
-# BDD </br>
-Formula provided to determine day of birth shows inconsistency in its results (Bug fixed)
+# Project Objectives
+Stage 1: Ansible Instrumentation
+Stage 2: Ansible + Terraform instrumentation
+
+# Project Expectations
+
+# Ansible Instrumentation Requirements
+- Set up the environment by provisioning a Vagrant virtual machine with the latest Ubuntu server (Jeff Geerlings ubuntu 20.04). No authentication keys or certificates are needed for this project.
+- Implement the following concepts in the ansible playbook:
+  - Variables
+  - Roles and
+  - Blocks and tags
 
 # Technology Used </br>
 Javascript
