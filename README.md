@@ -37,17 +37,10 @@ Ensure meticulous use of good practices such as the use of variables,
   - Roles and
   - Blocks and tags
 
-# Technology Used </br>
-Javascript
-Bootstrap
-GIT version control
-HTML
-CSS
-Github Pages 
-The application can be viewed by searching for Akan Name Generator on google or under the link https://oyonka.github.io/moringa-ip2/
-
 # Contact Information </br>
 pioyonka@gmail.com
+
+The project can be viewed under https://github.com/Oyonka/IP3_Configuration_Management.git
 
 # License and Copyright Information </br>
    Apache License
